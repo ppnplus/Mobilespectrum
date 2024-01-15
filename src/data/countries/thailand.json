@@ -78,16 +78,16 @@
         },
         "frequency": {
           "arfcn": {
-            "LTE":[9460,9485,9510,9535],
-            "NR":[156030,156050]
+            "LTE":[9460,9485,9510,9535,9558],
+            "NR":[156030,156050,156250]
           },
           "downLink": {
             "start": 778,
-            "end": 793
+            "end": 798
           },
           "upLink": {
             "start": 723,
-            "end": 738
+            "end": 743
           }
         },
         "technology": [
@@ -102,6 +102,10 @@
           {
             "name": "Droidsans - สรุปประมูล 5G สร้างรายได้กว่าแสนล้าน",
             "url": "https://droidsans.com/5g-auction-final-report/"
+          },
+          {
+            "name": "NT and AIS join forces to increase 4G/5G capability on the 700 MHz spectrum",
+            "url": "https://www.ais.th/en/business/news-and-activity/announcements/nt-and-ais-join-forces-to-increase-4g-5g-capability-on-the-700-mhz-spectrum"
           }
         ]
       },
@@ -115,11 +119,11 @@
         },
         "frequency": {
           "downLink": {
-            "start": 793,
+            "start": 798,
             "end": 803
           },
           "upLink": {
-            "start": 738,
+            "start": 743,
             "end": 748
           }
         },
@@ -130,6 +134,10 @@
           {
             "name": "Droidsans - สรุปประมูล 5G สร้างรายได้กว่าแสนล้าน",
             "url": "https://droidsans.com/5g-auction-final-report/"
+          },
+          {
+            "name": "NT and AIS join forces to increase 4G/5G capability on the 700 MHz spectrum",
+            "url": "https://www.ais.th/en/business/news-and-activity/announcements/nt-and-ais-join-forces-to-increase-4g-5g-capability-on-the-700-mhz-spectrum"
           }
         ]
       }
